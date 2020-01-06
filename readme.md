@@ -10,7 +10,8 @@ API for showing user balance list: http://localhost:8000/api/
 API for updating and deleting balance: http://localhost:8000/api/id
 
 For activating virtual environment type source asenv/bin/activate.
-install all requirements typing: pip install -r requirements.txt
+install all requirements: 
+pip install -r requirements.txt
 
 
 Note:- Currency conversion and unit testing still remaining.
