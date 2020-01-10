@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="737b3cb4-f27b-4130-930f-7b736c36fda4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyXchange/CurrencyXchange/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/CurrencyXchange/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyXchange/converter/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/converter/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,9 @@
       <updated>1578288760567</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="489" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578648084172">
