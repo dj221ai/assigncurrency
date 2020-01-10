@@ -18,6 +18,9 @@ API for showing user balance list: http://localhost:8000/api/
 
 API for updating and deleting balance: http://localhost:8000/api/id
 
-Note:- Currency conversion and unit testing still remaining.
+Currency Converter API:-
+
+API for exchanging currency from one to another form: http://localhost:8000/currency/
 
 
+Note:- currency converter api completed only unit testing remaining
