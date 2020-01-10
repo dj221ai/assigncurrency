@@ -23,4 +23,4 @@ Currency Converter API:-
 API for exchanging currency from one to another form: http://localhost:8000/currency/
 
 
-Note:- currency converter api completed only unit testing remaining
+Note:- currency converter api completed.
