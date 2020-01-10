@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from django.contrib.auth import get_user_model
-from .models import UserBalance
+from .models import UserBalance, CurrencyConversion
 
 UserRegisterModel = get_user_model()
 
@@ -28,4 +28,10 @@ class UserCreationSerializer(serializers.ModelSerializer):
 class UserBalanceSerializer(serializers.ModelSerializer):
     class Meta:
         model = UserBalance
+        fields = '__all__'
+
+
+class CurrencyConversionSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = CurrencyConversion
         fields = '__all__'
