@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="737b3cb4-f27b-4130-930f-7b736c36fda4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyXchange/converter/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/converter/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyXchange/converter/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/converter/serializers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyXchange/converter/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/converter/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyXchange/converter/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/converter/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyXchange/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CurrencyXchange/CurrencyXchange/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/CurrencyXchange/CurrencyXchange/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
