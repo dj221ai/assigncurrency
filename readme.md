@@ -22,5 +22,4 @@ Currency Converter API:-
 
 API for exchanging currency from one to another form: http://localhost:8000/currency/
 
-
-Note:- currency converter api completed.
+TestCase for user registraion is created which can be checked by "python manage.py test"
