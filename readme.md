@@ -1,4 +1,4 @@
-This app is an attempt to build a small currency converter app.
+This app is an attempt to build a small currency converter app in  django-rest-framework.
 
 For activating virtual environment type source asenv/bin/activate.
 
