@@ -1,6 +1,6 @@
 This app is an attempt to build a small currency converter app in  django-rest-framework.
 
-For activating virtual environment type source asenv/bin/activate.
+For activating virtual environment type source asenv/bin/activate on linux system.
 
 install all requirements: 
 pip install -r requirements.txt
